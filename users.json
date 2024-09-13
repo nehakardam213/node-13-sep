@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Bone",
+        "last_name": "Yurenev",
+        "email": "byurenev0@oracle.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Loraine",
+        "last_name": "Brandom",
+        "email": "lbrandom1@sitemeter.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Giuseppe",
+        "last_name": "Ricards",
+        "email": "gricards2@cisco.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Waylon",
+        "last_name": "O'Corrigane",
+        "email": "wocorrigane3@europa.eu",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Ammamaria",
+        "last_name": "Wickersham",
+        "email": "awickersham4@google.ca",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Robenia",
+        "last_name": "Bovaird",
+        "email": "rbovaird5@java.com",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Kathye",
+        "last_name": "Trask",
+        "email": "ktrask6@un.org",
+        "gender": "Non-binary"
+    },
+    {
+        "id": 8,
+        "first_name": "Herschel",
+        "last_name": "Slark",
+        "email": "hslark7@phoca.cz",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Anatol",
+        "last_name": "Ebdon",
+        "email": "aebdon8@accuweather.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Brandice",
+        "last_name": "Locke",
+        "email": "blocke9@dagondesign.com",
+        "gender": "Female"
+    }
+]
